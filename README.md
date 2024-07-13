@@ -1,5 +1,3 @@
-Certainly! Here's a README file for your simple network sniffer using Python and Scapy:
-
 # Simple Network Sniffer
 
 This Python script implements a simple network sniffer using Scapy to capture and log various network packets, including Ethernet frames, ARP packets, IP packets (TCP, UDP, ICMP), and their respective details.
